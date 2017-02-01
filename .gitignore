@@ -1,0 +1,8 @@
+/vendor
+/tmp
+
+/logs
+.idea
+vendor
+tmp
+logs
